@@ -1,0 +1,23 @@
+{
+  "name": "hugeicons-stroke-width-2",
+  "version": "1.2.35",
+  "description": "Hugeicons with stroke width 2 for Iconify",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhishek-junghare/hugeicons-stroke-width-2"
+  },
+  "keywords": [
+    "hugeicons",
+    "iconify",
+    "stroke width 2"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/abhishek-junghare/hugeicons-stroke-width-2",
+  "bugs": {
+    "url": "https://github.com/abhishek-junghare/hugeicons-stroke-width-2/issues"
+  },
+  "dependencies": {
+    "@iconify/types": "^2.0.0"
+  }
+}
